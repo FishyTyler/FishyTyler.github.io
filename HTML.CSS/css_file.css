@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color:red;
+}
+
+.backround {
+    background-color: firebrick;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.left {
+    display: block;
+    margin-left: 20px;
+    width: 20%
+}
+
+/* moves pic to left */
+.right {
+    display: block;
+    margin-right: 200px;
+    width: 50%;
+}
+
+.box {
+    height: 35px;
+    width: ;
+    background-color: pink;
+}
